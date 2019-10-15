@@ -1,7 +1,16 @@
-sum1= A+B
-sum2= sum1+C
-average = sum2 / 3
-If average >= 60
-print "passed"
+
+
+Declare:
+Grade1=input
+Grade2=input
+Grade3=input
+Average
+status
+input:
+input grades
+process:
+Average= Grade1+grade2+grade3/3
+if Average >= 60 {
+print "pass"
 else
-print "failed"
+print "fail"
