@@ -1,0 +1,7 @@
+sum1= A+B
+sum2= sum1+C
+average = sum2 / 3
+If average >= 60
+print "passed"
+else
+print "failed"
