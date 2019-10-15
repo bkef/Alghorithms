@@ -10,7 +10,7 @@ input:
 input grades
 process:
 Average= Grade1+grade2+grade3/3
-if Average >= 60 {
-print "pass"
-else
-print "fail"
+if Average >= 60 status = "pass"
+else status= "fail"
+print status
+print average
