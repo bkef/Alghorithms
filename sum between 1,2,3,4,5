@@ -1,0 +1,14 @@
+number
+sum=0
+for (number=0;number<=5; number-=1)
+sum=sum+number
+
+
+
+var sum=0
+var i
+for (i=0;i<6;i++)
+sum= sum +i
+console.log(i)
+alert (sum)
+
