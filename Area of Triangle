@@ -1,0 +1,8 @@
+input
+H= input
+B=input
+A=result
+proccess
+A= (H*b)/2
+output
+print A
