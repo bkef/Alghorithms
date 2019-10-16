@@ -5,12 +5,3 @@ if n==0
   return "1"
   factorial (n)= n* factorial (n-1)
   
-  
-  input a number n
-set variable final as 1
-final <= final * n
-decrease n
-check if n is equal to 0
-if n is equal to zero, goto step 8 (break out of loop)
-else goto step 3
-print the result fina
