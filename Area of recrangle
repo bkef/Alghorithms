@@ -1,0 +1,8 @@
+declare
+W= input
+l= input
+A= result
+process
+A= W*L
+output
+print A
