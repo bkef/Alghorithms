@@ -1,6 +1,7 @@
 declare
 R= input
 π=input
+proccess
 A=Result
 A= π*(R)^2
 output
