@@ -1,0 +1,7 @@
+declare
+R= input
+π=input
+A=Result
+A= π*(R)^2
+output
+print A
