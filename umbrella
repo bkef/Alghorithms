@@ -1,0 +1,5 @@
+var rain=0;
+if (rain==0)
+{console.log("dont take it");}
+else
+{console.log("take it");}
