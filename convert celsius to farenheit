@@ -1,7 +1,5 @@
-declare
-var x=celsius temp
-var y=farenhait temp
-initialize
-F=(9*C)/5+32
-Print temperature in fahrenheit is F
-
+var f;
+var c;
+f=(9*f)/5+32;
+console.log();
+alert();
