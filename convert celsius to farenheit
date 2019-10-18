@@ -1,0 +1,7 @@
+declare
+var x=celsius temp
+var y=farenhait temp
+initialize
+F=(9*C)/5+32
+Print temperature in fahrenheit is F
+
