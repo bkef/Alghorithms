@@ -1,0 +1,5 @@
+var pound
+var kg
+kg=2.2046*pounds
+console.log()
+alert()
