@@ -1,5 +1,5 @@
 var f;
 var c;
-f=(9*f)/5+32;
+f=C*1.8+32;
 console.log();
 alert();
